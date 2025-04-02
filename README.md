@@ -65,6 +65,7 @@ Access the app at `http://127.0.0.1:8000/`
 │   ├── js/
 ├── manage.py
 └── README.md
+└── Requirements.txt
 ```
 
 ## Contributing
